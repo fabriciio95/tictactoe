@@ -2,7 +2,7 @@ package br.com.softblue.tictactoe.core;
 
 import java.io.IOException;
 
-import br.com.softblue.tictactoe.Constants;
+import br.com.softblue.tictactoe.constants.Constants;
 import br.com.softblue.tictactoe.score.FileScoreManager;
 import br.com.softblue.tictactoe.score.ScoreManager;
 import br.com.softblue.tictactoe.ui.UI;

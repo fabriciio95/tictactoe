@@ -1,6 +1,6 @@
 package br.com.softblue.tictactoe.core;
 
-import br.com.softblue.tictactoe.Constants;
+import br.com.softblue.tictactoe.constants.Constants;
 import br.com.softblue.tictactoe.ui.UI;
 
 public class Board {
